@@ -1,4 +1,4 @@
-# ICAP
+# Meshname
 Gem, which provides conversion and DNS resolution functions for the Meshname protocol (see https://github.com/zhoreeq/meshname)
 
 Depends on Base32
