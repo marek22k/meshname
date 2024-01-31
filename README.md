@@ -1,3 +1,5 @@
+# Moved to [CodeBerg](https://github.com/marek22k/meshnamed)
+
 # Meshname
 Gem, which provides conversion and DNS resolution functions for the Meshname protocol (see https://github.com/zhoreeq/meshname)
 
